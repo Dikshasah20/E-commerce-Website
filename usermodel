@@ -1,0 +1,17 @@
+full name- string
+email- string
+password - string
+cart- array
+isadmin- boolean
+orders- array
+contact- num
+picture- db
+
+product
+images
+name
+price 
+discount
+bgcolour
+panel
+textcolor
